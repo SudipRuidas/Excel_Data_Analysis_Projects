@@ -1,4 +1,4 @@
-# Atliq Hardwares Reports
+# Sales & Finance Analytics Report
 
 Welcome to the repository for Atliq Hardwares' Sales and Finance Reports. This README provides an overview of the data contained in the reports and how to navigate through them. The reports are categorized into two main sections: Sales Reports and Finance Reports.
 
